@@ -1,0 +1,11 @@
+C:\Users\Gsoltis\source\repos\Lab6DiceGameThis\Lab6DiceGameThis\bin\Debug\netcoreapp2.1\Lab6DiceGameThis.deps.json
+C:\Users\Gsoltis\source\repos\Lab6DiceGameThis\Lab6DiceGameThis\bin\Debug\netcoreapp2.1\Lab6DiceGameThis.runtimeconfig.json
+C:\Users\Gsoltis\source\repos\Lab6DiceGameThis\Lab6DiceGameThis\bin\Debug\netcoreapp2.1\Lab6DiceGameThis.runtimeconfig.dev.json
+C:\Users\Gsoltis\source\repos\Lab6DiceGameThis\Lab6DiceGameThis\bin\Debug\netcoreapp2.1\Lab6DiceGameThis.dll
+C:\Users\Gsoltis\source\repos\Lab6DiceGameThis\Lab6DiceGameThis\bin\Debug\netcoreapp2.1\Lab6DiceGameThis.pdb
+C:\Users\Gsoltis\source\repos\Lab6DiceGameThis\Lab6DiceGameThis\obj\Debug\netcoreapp2.1\Lab6DiceGameThis.csproj.CoreCompileInputs.cache
+C:\Users\Gsoltis\source\repos\Lab6DiceGameThis\Lab6DiceGameThis\obj\Debug\netcoreapp2.1\Lab6DiceGameThis.AssemblyInfoInputs.cache
+C:\Users\Gsoltis\source\repos\Lab6DiceGameThis\Lab6DiceGameThis\obj\Debug\netcoreapp2.1\Lab6DiceGameThis.AssemblyInfo.cs
+C:\Users\Gsoltis\source\repos\Lab6DiceGameThis\Lab6DiceGameThis\obj\Debug\netcoreapp2.1\Lab6DiceGameThis.dll
+C:\Users\Gsoltis\source\repos\Lab6DiceGameThis\Lab6DiceGameThis\obj\Debug\netcoreapp2.1\Lab6DiceGameThis.pdb
+C:\Users\Gsoltis\source\repos\Lab6DiceGameThis\Lab6DiceGameThis\obj\Debug\netcoreapp2.1\Lab6DiceGameThis.csprojAssemblyReference.cache
